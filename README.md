@@ -5,7 +5,11 @@ Sample code
 <head>
     <title>Github Account</title>
     <style>
-   
+        .img {
+            width: 20px;
+            height: 20px;
+            position: relative;
+        }
         h1{
             text-align: center;
             font-family: Georgia, 'Times New Roman', Times, serif;
@@ -56,6 +60,9 @@ Sample code
     </style>
 </head>
 <body>
+    <div class="img">
+    <img src="./images/GitHub-Mark.png">
+    </div>
     <form class="form">
         <input type="text" placeholder="Search or jump to">
     </form>
@@ -76,4 +83,3 @@ Sample code
     </div>
 </body>
 </html>
-
