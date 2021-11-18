@@ -1,2 +1,2 @@
 # APT1040B-
-Sample code in index.html 
+Sample code is in index.html 
